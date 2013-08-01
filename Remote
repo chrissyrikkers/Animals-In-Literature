@@ -1,0 +1,3 @@
+$ git remote add origin https://github.com/chrissyrikkers/Readme.git
+
+$ git push origin master
